@@ -1,3 +1,5 @@
+How To
+--------------------------------------
 You can copy it easy in your server by command:
 git clone https://github.com/kenw2004/rockmongo-php7.git
 
@@ -8,9 +10,12 @@ Ubuntu Server: apt-get install git -y
 How to use Rockmongo-php7
 You can visit the url: http://yoursite/rockmongo-php7/index.php
 the default Username and Password is admin : admin
+Also,you can change it in file config.php.
+
 --------------------------------------
 
-Introduction
+Rockmongo Introduction
+
 --------------------------------------
 RockMongo is a MongoDB administration tool, written in PHP 7, very easy to install and use.
 
