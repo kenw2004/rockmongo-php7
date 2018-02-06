@@ -1,3 +1,11 @@
+You can copy it easy in your server by command:
+git clone https://github.com/kenw2004/rockmongo-php7.git
+
+you must install Git Tool before.
+How to install Git Tool:
+Ubuntu Server: apt-get install git -y
+--------------------------------------
+
 Introduction
 --------------------------------------
 RockMongo is a MongoDB administration tool, written in PHP 7, very easy to install and use.
